@@ -1,58 +1,50 @@
-# VAST.li Documentation
+# VASTLI Documentation
 
-![VAST.li Logo](https://vast.li/logo.jpg)
+![VASTLI Logo](https://vast.li/logo.png)
 
-**AI on Your Terms. Built for Malaysia.**
+**Precision Computer Vision for the Semiconductor Supply Chain.**
 
-VAST.li is a Sarawak-based AI infrastructure company building the **Claw platform** — a suite of locally-managed AI tools designed to deliver data sovereignty, regional performance, and independence from foreign hyperscalers.
+VASTLI is a Malaysian company building computer vision inspection systems — defect detection, particle measurement, and process quality control — for component and equipment manufacturers across the semiconductor supply chain, including in Southeast Asia and beyond.
 
-This repository serves as the **single source of truth** for all public-facing VAST.li documentation, technical overviews, product brochures, architecture diagrams, and strategic materials.
+This repository serves as a public reference point for VASTLI documentation, technical overviews, and other materials as they become available.
+
+## About VASTLI
+
+VASTLI is early-stage. The founder is also a partner at JunCore (钧域智算), a China-based computer vision and AI compute company, where the inspection methodology behind VASTLI's work was developed and deployed with manufacturing clients in mainland China. VASTLI is where that experience is being built out independently, starting in Malaysia and Southeast Asia.
+
+Learn more at [vast.li](https://vast.li) (global) or [vastli.com.my](https://vastli.com.my) (Malaysia).
 
 ## Why This Repository Exists
 
-- Provide transparent, version-controlled access to product brochures, white papers, architecture documents, and other public materials
-- Enable partners, customers, regulators, developers, and researchers in Malaysia (especially Sarawak) to easily reference official information
-- Serve as a living archive that grows with the company and the Claw platform
-- Support sales, marketing, procurement, compliance, and technical due-diligence processes
+- Provide transparent, version-controlled access to technical overviews and public materials as they're published
+- Give partners, customers, and researchers a reliable reference for official VASTLI information
+- Serve as a living archive that grows alongside the company
 
 ## Current Documents
+
 To be uploaded soon.
-
-## How the Claw Platform Fits into Sarawak & Malaysia
-
-VAST.li strives to align with and work together for Sarawak's digital and AI ambitions:
-
-- **Sarawak AI Centre (SAIC)** — launched 2024, RM5M funding in 2026 budget
-- **Post-COVID-19 Development Strategy (PCDS) 2030** — digital government, productivity via frontier tech
-- **Sarawak Digital Economy Blueprint 2030** — doubling GDP through digital sovereignty
-- **IDECS 2025** — "AI & Green Evolution" theme
-- **DeepSAR** — vision for a sovereign Sarawak-specific AI model
-
-Claw products are engineered to support these initiatives by providing Malaysian-managed infrastructure, practical data residency controls, and tools that reduce foreign dependency while meeting PDPA and BNM RMiT expectations.
 
 ## How to Contribute or Request Documents
 
-This is currently a **read-only public repository** managed by the VAST.li team.
+This is currently a **read-only public repository** managed by the VASTLI team.
 
 If you are:
 
 - A partner, customer, or researcher → feel free to reference any document (licensed under CC BY-NC-ND 4.0 unless stated otherwise)
-- A member of the VAST.li team → submit changes via pull request (internal team workflow)
+- A member of the VASTLI team → submit changes via pull request
 - Looking for a specific document not listed → email hello@vast.li
 
 ## License
 
-Unless otherwise noted in individual files, content in this repository is licensed under  
+Unless otherwise noted in individual files, content in this repository is licensed under
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
 
-You are free to share and reference the materials for non-commercial purposes with proper attribution to VAST.li.
+You are free to share and reference the materials for non-commercial purposes with proper attribution to VASTLI.
 
 ## Contact
 
-Questions, partnership inquiries, or early access requests:  
-📧 hello@vast.li  
-🌐 https://vast.li
+Questions or partnership inquiries:
+📧 hello@vast.li
+🌐 https://vast.li · https://vastli.com.my
 
-Built with conviction in Sarawak, for Malaysia.
-
-Last updated: March 2026
+Last updated: September 2026
